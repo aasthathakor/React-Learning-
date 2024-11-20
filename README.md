@@ -1,1 +1,1 @@
-Learning with projects.
+Project with Learning(React,Vite,Tailwind CSS)
